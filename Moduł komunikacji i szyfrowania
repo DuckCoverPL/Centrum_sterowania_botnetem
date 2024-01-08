@@ -8,6 +8,9 @@ Interoperacyjność i zgodność ze standardami: zapewnia interoperacyjność z 
 Zabezpieczenie Komunikacji: zapewnienie bezpiecznej komunikacji między różnymi elementami systemu botnetów oraz z innymi systemami w Centrum Sterowania, zapobiegając potencjalnym atakom i zagrożeniom.
 Zapewnienie Integralności i Autentyczności Danych: zapewnienie, że wszystkie przesyłane dane są autentyczne i nie zostały zmienione w trakcie transmisji, co jest kluczowe dla wiarygodności i skuteczności operacji.
 
+Użytkownicy:
+Lider Zespołów DevSecOps (Oficer Starszy), Zespół Bezpieczeństwa (Oficer Młodszy),  Grupa Techniczna (Podoficerowie), Developerzy 
+
 Wymagania funkcjonalne:
 Interoperacyjny: moduł powinien być kompatybilny z istniejącymi systemami wojskowymi i standardami komunikacyjnymi NATO.
 Zarządzanie tożsamością i dostępem: Implementacja wielopoziomowego systemu uwierzytelniania, w tym uwierzytelnianie dwuskładnikowe i zarządzanie kluczami.
