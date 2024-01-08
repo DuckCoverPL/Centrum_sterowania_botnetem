@@ -1,4 +1,11 @@
 ## System Zarządzania Botnetem
+
+
+
+
+Użytkownicy: Wsparcie i Logistyka (WOG), Administratorzy Sieciowi i Administratorzy Baz Danych (Podoficerowie), Lider Zespołów DevSecOps (Oficer Starszy).
+
+
 Wymagania funkcjonalne:
 Zarządzanie i kontrola operacji: możliwość zdalnego zarządzania botami, w tym włączania/wyłączania, aktualizacji oprogramowania oraz monitorowania ich stanu. Automatyzacja zadań związanych z botnetem, takich jak dystrybucja aktualizacji, zadań i poleceń.
 Integracja z innymi systemami: kompatybilność i możliwość integracji z innymi systemami obronnymi i narzędziami wywiadowczymi.
