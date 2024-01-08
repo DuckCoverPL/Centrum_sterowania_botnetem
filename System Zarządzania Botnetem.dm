@@ -1,6 +1,8 @@
 ## System Zarządzania Botnetem
 
-
+Charakteryzuje się on złożoną infrastrukturą umożliwiającą zdalne zarządzanie, koordynację działania i nadzorowanie botów zgodnie z określonymi celami operacyjnymi.
+Cel systemu:
+Celem systemu jest zapewnienie efektywnego i bezpiecznego zarządzania zasobami botnetu, które mogą być wykorzystywane do szerokiego zakresu działań, od defensywnych po ofensywne w cyberprzestrzeni. System ma za zadanie umożliwić szybkie reagowanie na zmieniające się warunki i potencjalne zagrożenia, optymalizację zadań botów oraz zautomatyzowanie procesów w celu zwiększenia efektywności operacyjnej
 
 
 Użytkownicy: Wsparcie i Logistyka (WOG), Administratorzy Sieciowi i Administratorzy Baz Danych (Podoficerowie), Lider Zespołów DevSecOps (Oficer Starszy).
