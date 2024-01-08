@@ -6,3 +6,9 @@ Zarządzanie kluczami: Bezpieczne przechowywanie, dystrybucja i odnawianie klucz
 Protokoły bezpiecznej komunikacji: Wdrożenie protokołów takich jak TLS/SSL, SSH, SCP dla bezpiecznej komunikacji.
 Audit i śledzenie: Rejestrowanie wszystkich operacji na modułach i możliwość audytu w czasie rzeczywistym.
 Automatyzacja: Możliwość automatyzacji procesów komunikacyjnych i szyfrowania w zależności od zdefiniowanych polityk bezpieczeństwa
+
+Wymagania bezpieczeństwa:
+Zgodność z normami: zgodność z międzynarodowymi standardami bezpieczeństwa: ISO/IEC 27001 oraz NIST.
+Ochrona przed zagrożeniami: mechanizmy ochrony przed zagrożeniami cybernetycznymi, w tym IDS/IPS, firewalle oraz sandboxing.
+Kontrola dostępu: ścisła kontrola dostępu do modułu, zarówno fizycznego, jak i cyfrowego.
+Ochrona przed wyciekiem danych: implementacja systemów DLP (Data Loss Prevention) do ochrony przed wyciekiem informacji.
