@@ -13,3 +13,4 @@ Integracja dodatkowych modułów: Łatwość rozbudowy systemu o nowe elementy b
 Wymagania bezpieczeństwa:
 Zabezpieczenia: zaawansowane mechanizmy zabezpieczeń zapewniające ochronę przed nieautoryzowanym dostępem, atakami z zewnątrz oraz własnymi błędami systemu. 
 Ochrona systemu: wprowadzenie dedykowanych protokołów bezpieczeństwa dla każdego kanału komunikacyjnego między centrum a botami, z naciskiem na indywidualne szyfrowanie każdego połączenia.
+Nieprzerwana dostępność: opracowanie i wprowadzenie kompleksowych planów awaryjnych i procedur odzyskiwania po awariach, które zapewniają minimalny czas przestoju systemu.
