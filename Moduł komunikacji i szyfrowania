@@ -1,11 +1,17 @@
 Wymagania funkcjonalne:
 Interoperacyjność: Moduł powinien być kompatybilny z istniejącymi systemami wojskowymi i standardami komunikacyjnymi NATO.
 Zarządzanie tożsamością i dostępem: Implementacja wielopoziomowego systemu uwierzytelniania, w tym uwierzytelnianie dwuskładnikowe i zarządzanie kluczami.
-Szyfrowanie: Zaawansowane szyfrowanie end-to-end z wykorzystaniem silnych algorytmów kryptograficznych zalecanych przez agencje bezpieczeństwa.
-Zarządzanie kluczami: Bezpieczne przechowywanie, dystrybucja i odnawianie kluczy kryptograficznych.
+Szyfrowanie: zaawansowane szyfrowanie end-to-end z wykorzystaniem silnych algorytmów kryptograficznych.
+Zarządzanie kluczami: bezpieczne przechowywanie, dystrybucja i odnawianie kluczy kryptograficznych.
 Protokoły bezpiecznej komunikacji: Wdrożenie protokołów takich jak TLS/SSL, SSH, SCP dla bezpiecznej komunikacji.
-Audit i śledzenie: Rejestrowanie wszystkich operacji na modułach i możliwość audytu w czasie rzeczywistym.
-Automatyzacja: Możliwość automatyzacji procesów komunikacyjnych i szyfrowania w zależności od zdefiniowanych polityk bezpieczeństwa
+Automatyzacja: możliwość automatyzacji procesów komunikacyjnych i szyfrowania w zależności od zdefiniowanych polityk bezpieczeństwa
+
+Wymagania wydajnościowe:
+Przepustowość: Moduł powinien obsługiwać wysoką przepustowość danych bez degradacji wydajności.
+Odporność na obciążenia: System powinien być odporny na wysokie obciążenia i zapewniać ciągłość działania nawet przy maksymalnym wykorzystaniu.
+Szybkość szyfrowania: Minimalny wpływ szyfrowania na opóźnienia w komunikacji.
+Skalowalność: Możliwość rozszerzenia systemu bez negatywnego wpływu na bieżącą operacyjność.
+Czas reakcji: Szybka odpowiedź systemu na zapytania użytkowników, zgodnie z ustalonymi poziomami usług (SLA).
 
 Wymagania bezpieczeństwa:
 Zgodność z normami: zgodność z międzynarodowymi standardami bezpieczeństwa: ISO/IEC 27001 oraz NIST.
