@@ -1,5 +1,5 @@
 Wymagania funkcjonalne:
-Interoperacyjnoy: moduł powinien być kompatybilny z istniejącymi systemami wojskowymi i standardami komunikacyjnymi NATO.
+Interoperacyjny: moduł powinien być kompatybilny z istniejącymi systemami wojskowymi i standardami komunikacyjnymi NATO.
 Zarządzanie tożsamością i dostępem: Implementacja wielopoziomowego systemu uwierzytelniania, w tym uwierzytelnianie dwuskładnikowe i zarządzanie kluczami.
 Szyfrowanie: zaawansowane szyfrowanie end-to-end z wykorzystaniem silnych algorytmów kryptograficznych.
 Zarządzanie kluczami: bezpieczne przechowywanie, dystrybucja i odnawianie kluczy kryptograficznych.
